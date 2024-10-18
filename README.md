@@ -53,8 +53,66 @@ Atención al cliente: atender en la tienda, hacer pedidos y realizar domicilios.
 
 ### 📚 &nbsp;Proyectos Realizados
 
-- **Aplicación de gestión de tareas** usando React y Node.js, con autenticación de usuarios y funcionalidades CRUD. [Ver proyecto](https://github.com/jucrojasba/uno.git)
-- **Aplicación web para gestionar posts** a través de API con React y Next.js, integrando autenticación y CRUD. [Ver proyecto](https://github.com/VICENTVANGOG/crud-post-.git)
-- **Aplicación web para la adopción de mascotas** de perreras usando React y Next.js, integrando autenticación y CRUD. [Ver proyecto](https://github.com/VICENTVANGOG/use-api-books.git)
+- **[RiwiShop](https://riwi-shop-black.vercel.app/)**\
+  E-commerce\
+  ![TypeScript](https://techblog.istyle.co.jp/wp-content/uploads/2021/12/typescript.png)
+  ![Next.js](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png)
+  ![CSS](https://pluginicons.craft-cdn.com/scssqTY8srJEesn2VFiUV73mUCyRIZsfXfDj2eOY.svg?1528091210)
 
+- **[Pawhome](https://pawhome.vercel.app/)**\
+  Adoption center\
+  ![TypeScript](https://techblog.istyle.co.jp/wp-content/uploads/2021/12/typescript.png)
+  ![Next.js](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png)
+  ![CSS](https://pluginicons.craft-cdn.com/scssqTY8srJEesn2VFiUV73mUCyRIZsfXfDj2eOY.svg?1528091210)
+
+- **[Todo List](https://list-gray-xi.vercel.app/)**\
+  Gestor de tareas\
+  ![TypeScript](https://techblog.istyle.co.jp/wp-content/uploads/2021/12/typescript.png)
+  ![Next.js](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png)
+  ![Flaticon](https://cdn-icons-png.flaticon.com/512/919/919826.png)
+
+- **[ProductIn](https://github.com/jucrojasba/uno.git)**\
+  Gestor de productos\
+  ![TypeScript](https://techblog.istyle.co.jp/wp-content/uploads/2021/12/typescript.png)
+  ![Next.js](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png)
+  ![Flaticon](https://cdn-icons-png.flaticon.com/512/919/919826.png)
+
+- **[Books](https://github.com/VICENTVANGOG/use-api-books.git)**\
+  API creación de libros\
+  ![TypeScript](https://techblog.istyle.co.jp/wp-content/uploads/2021/12/typescript.png)
+  ![Next.js](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png)
+  ![Flaticon](https://cdn-icons-png.flaticon.com/512/919/919826.png)
+
+- **[Flor](https://flor-amarilla-six.vercel.app/)**\
+  Flor para regalar\
+  ![TypeScript](https://techblog.istyle.co.jp/wp-content/uploads/2021/12/typescript.png)
+  ![Next.js](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png)
+  ![Flaticon](https://cdn-icons-png.flaticon.com/512/919/919826.png)
+
+### 🛠 &nbsp;Servicios Ofrecidos
+
+- **<Pen className="w-12 h-12 text-yellow-400" /> Creative UI/UX Design**
+  - Identidad visual y diseño de logotipos
+  - Diseño de materiales impresos
+  - Diseño de interfaces UI/UX
+  - Ilustraciones personalizadas e infografías (folletos, volantes, carteles)
+
+- **<Code className="w-12 h-12 text-yellow-400" /> Desarrollo Frontend Interactivo**
+  - Creación de sitios web responsivos
+  - HTML, CSS, JavaScript, TypeScript, React, Next.js
+  - Optimización del rendimiento y accesibilidad de sitios web
+
+### 📊 &nbsp;Habilidades
+
+| Habilidad     | Icono                                                                                     | Porcentaje |
+|---------------|-------------------------------------------------------------------------------------------|------------|
+| MongoDB       | ![MongoDB](https://www.svgrepo.com/show/331488/mongodb.svg)                             | 20%        |
+| Firebase      | ![Firebase](https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61474.png) | 20%        |
+| JavaScript    | ![JavaScript](https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png) | 45%        |
+| React         | ![React](https://cdn-icons-png.flaticon.com/512/919/919851.png)                        | 40%        |
+| HTML          | ![HTML](https://cdn-icons-png.freepik.com/256/13170/13170709.png?semt=ais_hybrid)     | 50%        |
+| Next.js       | ![Next.js](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png) | 35%        |
+| CSS           | ![CSS](https://cdn-icons-png.flaticon.com/512/919/919826.png)                          | 65%        |
+| SASS          | ![SASS](https://pluginicons.craft-cdn.com/scssqTY8srJEesn2VFiUV73mUCyRIZsfXfDj2eOY.svg?1528091210) | 50%        |
+| TypeScript    | ![TypeScript](https://techblog.istyle.co.jp/wp-content/uploads/2021/12/typescript.png) | 40%        |
 
