@@ -1,50 +1,53 @@
-# Hola, soy [Tu Nombre] 👋
+![jose miguel barrientos ](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-Soy un [tu profesión, e.g., desarrollador web, diseñador gráfico] apasionado por [tus intereses, e.g., crear soluciones innovadoras, el diseño UX, etc.]. En este repositorio, puedes encontrar una colección de mis trabajos y proyectos.
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
-## 🚀 Proyectos Destacados
+### 👨🏻‍💻 &nbsp;About Me
 
-### 1. [Nombre del Proyecto 1](enlace-al-proyecto)
-- **Descripción:** Breve descripción del proyecto.
-- **Tecnologías:** HTML, CSS, JavaScript, [otras tecnologías].
-- **Funcionalidades:** 
-  - Funcionalidad 1
-  - Funcionalidad 2
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-### 2. [Nombre del Proyecto 2](enlace-al-proyecto)
-- **Descripción:** Breve descripción del proyecto.
-- **Tecnologías:** HTML, CSS, React, [otras tecnologías].
-- **Funcionalidades:** 
-  - Funcionalidad 1
-  - Funcionalidad 2
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 3. [Nombre del Proyecto 3](enlace-al-proyecto)
-- **Descripción:** Breve descripción del proyecto.
-- **Tecnologías:** Node.js, Express, MongoDB, [otras tecnologías].
-- **Funcionalidades:** 
-  - Funcionalidad 1
-  - Funcionalidad 2
+### 🛠 &nbsp;Tech Stack
 
-## 🌐 Otras Experiencias
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-- **[Trabajo/Experiencia 1](enlace-a-tu-experiencia)**: Descripción breve de lo que hiciste.
-- **[Trabajo/Experiencia 2](enlace-a-tu-experiencia)**: Descripción breve de lo que hiciste.
 
-## 🛠️ Herramientas y Tecnologías
+### ⚙️ &nbsp;GitHub Analytics
 
-- **Lenguajes:** JavaScript, Python, [otros lenguajes].
-- **Frameworks/Librerías:** React, Next.js, [otros frameworks].
-- **Bases de Datos:** MongoDB, PostgreSQL, [otras bases de datos].
-- **Herramientas:** Git, Docker, [otras herramientas].
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-## 📫 Cómo contactarme
+### 🤝🏻 &nbsp;Connect with Me
 
-- **Email:** [tu-email@example.com](mailto:tu-email@example.com)
-- **LinkedIn:** [Tu LinkedIn](enlace-a-tu-perfil-linkedin)
-- **Twitter:** [Tu Twitter](enlace-a-tu-twitter)
-- **Portfolio:** [Tu Portfolio](enlace-a-tu-portfolio)
+<p align="center">
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+</p>
 
-## 🌟 Agradecimientos
+-----
+Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
-Gracias por visitar mi perfil. ¡No dudes en explorar mis proyectos y contactarme si tienes alguna pregunta!
-
+Last Edited on: 11/12/2020
